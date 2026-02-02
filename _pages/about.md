@@ -49,7 +49,7 @@ Publications
   *ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion.*
   **(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.10391）
 
-*Zheng Wu, Heyuan Huang, Yanjia Yang, **Yuanyi Song**, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
+* Zheng Wu, Heyuan Huang, Yanjia Yang, **Yuanyi Song**, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the uptake: Eliciting implicit intents from human demonstrations for personalized mobile-use agents.*
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
 
