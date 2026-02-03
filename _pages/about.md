@@ -35,19 +35,19 @@ Publications
 
 * **Yuanyi Song**, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu Lou, Weiwen Liu, Zhuosheng Zhang, Yong Yu, Weinan Zhang\#, Zhaoxiang Wang.
   *ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks.*
-  **(**WWW 2026**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2510.14621)
+  *(**WWW 2026**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2510.14621)
   
 * Yingxuan Yang, Huacan Chai, Shuai Shao, **Yuanyi Song**, Siyuan Qi, Renting Rui, Weinan Zhang\#.
   *Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems.*
-  **(**NIPS 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587)
+  *(**NIPS 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587)
 
 * Yingxuan Yang, Huacan Chai, **Yuanyi Song**, Siyuan Qi, Muning Wen, Ning Li, Junwei Liao, Haoyi Hu, Jianghao Lin\#, Gaowei Chang, Weiwen Liu, Ying Wen, Yong Yu, Weinan Zhang.
   *A survey of ai agent protocols.*
-  **(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587）
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587)
 
 * **Yuanyi Song**, Pumeng Lyu, Ben Fei\#, Fenghua Ling, Wanli Ouyang, Lei Bai.
   *ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion.*
-  **(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.10391）
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.10391)
 
 * Zheng Wu, Heyuan Huang, Yanjia Yang, **Yuanyi Song**, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the uptake: Eliciting implicit intents from human demonstrations for personalized mobile-use agents.*
@@ -55,7 +55,7 @@ Publications
 
 * Ning Li, Qiqiang Lin, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, **Yuanyi Song**, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou\#, Weiwen Liu\#, Zhuosheng Zhang\#, Weinan Zhang.
   *ColorAgent: Building A Robust, Personalized, and Interactive OS Agent.*
-  **(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2510.19386)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2510.19386)
 
   
 ---
