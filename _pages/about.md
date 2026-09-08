@@ -22,6 +22,8 @@ Experience
 
 Awards & Honors
 ======
+**Shanghai Outstanding Graduate**, 2026
+
 **National Scholarship**, 2025(top 0.2% nationwide)
 
 Publications
