@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yuanyi Song**, an undergraduate student in Artificial Intelligence at Shanghai Jiao Tong University, advised by Prof. **Weinan Zhang**. I will join the School of Computer Science at Shanghai Jiao Tong University and the Shanghai Innovation Institute as a direct Ph.D. student.
+I am **Yuanyi Song**, a first-year direct Ph.D. student jointly affiliated with Shanghai Jiao Tong University and the Shanghai Innovation Institute. I am advised by Prof. **Weinan Zhang** at the School of Computer Science, Shanghai Jiao Tong University.
 
 My research interests include (multimodal) large language models, and LLM-based agents.
 
 Experience
 =====
-**Artificial Intelligence in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University**  
-<small>Sept. 2022 – June 2026</small>  
-<div align="right">Supervisor: Prof. Weinan Zhang</div>
+**Ph.D. in Computer Science, Shanghai Jiao Tong University & Shanghai Innovation Institute**<br>
+<small>Sept. 2026 – Present</small><br>
+<div align="right">Advisor: Prof. Weinan Zhang</div>
 
-<!-- **M.Eng. in School of Computer Science, Shanghai Jiao Tong University** -->
-<!-- <small>Sept. 2025 – Present</small> -->
-<!-- <div align="right">Supervisor: Prof. Zhuosheng Zhang</div> -->
+**B.Eng. in Artificial Intelligence, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University**<br>
+<small>Sept. 2022 – June 2026</small>
 
 Awards & Honors
 ======
