@@ -7,22 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yuanyi Song**, and I am currently a senior student at the Artificial Intelligence of Shanghai Jiao Tong University, under the supervision of Prof. **Weinan Zhang**. I have received my direct PHD’s offer from the School of Computer Science, Shanghai Jiao Tong University and Shanghai Innovation Institute.
+I am **Yuanyi Song**, a first-year direct Ph.D. student jointly affiliated with Shanghai Jiao Tong University and the Shanghai Innovation Institute. I am advised by Prof. **Weinan Zhang** at the School of Computer Science, Shanghai Jiao Tong University.
 
 My research interests include (multimodal) large language models, and LLM-based agents.
 
 Experience
 =====
-**Artificial Intelligence in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University**  
-<small>Sept. 2022 – June 2026</small>  
-<div align="right">Supervisor: Prof. Weinan Zhang</div>
+**Ph.D. in Computer Science, Shanghai Jiao Tong University & Shanghai Innovation Institute**<br>
+<small>Sept. 2026 – Present</small><br>
+<div align="right">Advisor: Prof. Weinan Zhang</div>
 
-<!-- **M.Eng. in School of Computer Science, Shanghai Jiao Tong University** -->
-<!-- <small>Sept. 2025 – Present</small> -->
-<!-- <div align="right">Supervisor: Prof. Zhuosheng Zhang</div> -->
+**B.Eng. in Artificial Intelligence, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University**<br>
+<small>Sept. 2022 – June 2026</small>
 
 Awards & Honors
 ======
+**Shanghai Outstanding Graduate**, 2026
+
 **National Scholarship**, 2025(top 0.2% nationwide)
 
 Publications
@@ -30,6 +31,8 @@ Publications
 \* Equal contribution.
 
 \# Corresponding Author.
+
+For a complete, citation-linked publication record, please see my [Google Scholar profile](https://scholar.google.com/citations?user=RxJQPkYAAAAJ&hl=en).
 
 ---
 
@@ -43,7 +46,7 @@ Publications
 
 * Yingxuan Yang, Huacan Chai, **Yuanyi Song**, Siyuan Qi, Muning Wen, Ning Li, Junwei Liao, Haoyi Hu, Jianghao Lin\#, Gaowei Chang, Weiwen Liu, Ying Wen, Yong Yu, Weinan Zhang.
   *A survey of ai agent protocols.*
-  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587)
+  *(Preprint)* [Google Scholar](https://scholar.google.com/scholar?q=A+Survey+of+AI+Agent+Protocols)
 
 * **Yuanyi Song**, Pumeng Lyu, Ben Fei\#, Fenghua Ling, Wanli Ouyang, Lei Bai.
   *ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion.*
