@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yuanyi Song**, and I am currently a senior student at the Artificial Intelligence of Shanghai Jiao Tong University, under the supervision of Prof. **Weinan Zhang**. I have received my direct PHD’s offer from the School of Computer Science, Shanghai Jiao Tong University and Shanghai Innovation Institute.
+I am **Yuanyi Song**, an undergraduate student in Artificial Intelligence at Shanghai Jiao Tong University, advised by Prof. **Weinan Zhang**. I will join the School of Computer Science at Shanghai Jiao Tong University and the Shanghai Innovation Institute as a direct Ph.D. student.
 
 My research interests include (multimodal) large language models, and LLM-based agents.
 
@@ -31,6 +31,8 @@ Publications
 
 \# Corresponding Author.
 
+For a complete, citation-linked publication record, please see my [Google Scholar profile](https://scholar.google.com/citations?user=RxJQPkYAAAAJ&hl=en).
+
 ---
 
 * **Yuanyi Song**, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu Lou, Weiwen Liu, Zhuosheng Zhang, Yong Yu, Weinan Zhang\#, Zhaoxiang Wang.
@@ -43,7 +45,7 @@ Publications
 
 * Yingxuan Yang, Huacan Chai, **Yuanyi Song**, Siyuan Qi, Muning Wen, Ning Li, Junwei Liao, Haoyi Hu, Jianghao Lin\#, Gaowei Chang, Weiwen Liu, Ying Wen, Yong Yu, Weinan Zhang.
   *A survey of ai agent protocols.*
-  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2504.00587)
+  *(Preprint)* [Google Scholar](https://scholar.google.com/scholar?q=A+Survey+of+AI+Agent+Protocols)
 
 * **Yuanyi Song**, Pumeng Lyu, Ben Fei\#, Fenghua Ling, Wanli Ouyang, Lei Bai.
   *ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion.*
